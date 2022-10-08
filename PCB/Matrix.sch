@@ -2622,4 +2622,19 @@ Wire Wire Line
 Wire Wire Line
 	5150 4550 5150 4600
 Connection ~ 5150 4550
+Wire Wire Line
+	10400 6600 10850 6600
+Wire Wire Line
+	10850 6600 10850 5750
+$Comp
+L random-keyboard-parts:MX-NoLED-MX_Alps_Hybrid MX?
+U 1 1 6342F4CC
+P 3500 4375
+F 0 "MX?" H 3533 4584 39  0000 C CNN
+F 1 "6U" H 3533 4525 20  0000 C CNN
+F 2 "MX_Solder_SawnsProjects:MXOnly-6U-ReversedStabilizers-NoLED" H 2875 4350 60  0001 C CNN
+F 3 "" H 2875 4350 60  0001 C CNN
+	1    3500 4375
+	1    0    0    -1  
+$EndComp
 $EndSCHEMATC

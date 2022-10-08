@@ -1,4 +1,4 @@
-20517781822273419
+20522780126574565
 60_outline
 60_Outline
 
@@ -86926,7 +86926,28 @@ MX,cherry,gateron,kailh,pg1511,stabilizer,stab
 0
 0
 logo
+Eclipse
+
+
+0
+0
+0
+logo
 krush
+
+
+0
+0
+0
+logo
+wattermask
+
+
+0
+0
+0
+logo
+wattermaskCu
 
 
 0
@@ -87160,6 +87181,13 @@ sanproject-keyboard-part
 LED_WS2812B
 https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf
 LED RGB NeoPixel
+0
+4
+4
+sanproject-keyboard-part
+LED_WS2812B_2020_PLCC
+https://cdn-shop.adafruit.com/product-files/3484/3484_Datasheet.pdf
+LED RGB NeoPixel Nano
 0
 4
 4
