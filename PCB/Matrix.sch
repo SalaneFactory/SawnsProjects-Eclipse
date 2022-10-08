@@ -2627,14 +2627,25 @@ Wire Wire Line
 Wire Wire Line
 	10850 6600 10850 5750
 $Comp
-L random-keyboard-parts:MX-NoLED-MX_Alps_Hybrid MX?
-U 1 1 6342F4CC
-P 3500 4375
-F 0 "MX?" H 3533 4584 39  0000 C CNN
-F 1 "6U" H 3533 4525 20  0000 C CNN
-F 2 "MX_Solder_SawnsProjects:MXOnly-6U-ReversedStabilizers-NoLED" H 2875 4350 60  0001 C CNN
-F 3 "" H 2875 4350 60  0001 C CNN
-	1    3500 4375
+L random-keyboard-parts:MX-NoLED-MX_Alps_Hybrid MX86
+U 1 1 634438A3
+P 5200 4400
+F 0 "MX86" H 5233 4609 39  0000 C CNN
+F 1 "1.5U" H 5233 4550 20  0000 C CNN
+F 2 "MX_Solder_SawnsProjects:MXOnly-1.5U-NoLED" H 4575 4375 60  0001 C CNN
+F 3 "" H 4575 4375 60  0001 C CNN
+	1    5200 4400
 	1    0    0    -1  
+$EndComp
+$Comp
+L random-keyboard-parts:MX-NoLED-MX_Alps_Hybrid MX87
+U 1 1 6345B4A9
+P 5750 4500
+F 0 "MX87" H 5783 4709 39  0000 C CNN
+F 1 "1U" H 5783 4650 20  0000 C CNN
+F 2 "MX_Solder_SawnsProjects:MXOnly-1U-NoLED" H 5125 4475 60  0001 C CNN
+F 3 "" H 5125 4475 60  0001 C CNN
+	1    5750 4500
+	-1   0    0    1   
 $EndComp
 $EndSCHEMATC
